@@ -69,21 +69,5 @@ To generate summaries:
 python summarize.py --input data/sample_dialogues.txt --output summaries.txt
 ```
 
-## Project Structure
 
-- `data/` - Sample datasets and data loaders
-- `models/` - Finetuned model checkpoints and architecture scripts
-- `scripts/` - Utility scripts for training and evaluation
-- `notebooks/` - Jupyter notebooks for experimentation
 
-## Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For questions or collaborations, reach out to [ShravanNaik](https://github.com/ShravanNaik).
